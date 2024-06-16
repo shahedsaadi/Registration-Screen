@@ -23,11 +23,11 @@ To modify the user's registration status, Go to App.jsx and change (userIsRegist
 - Open the folder(repository) inside Visual Studio or any source-code editor.
 - Open Terminal > cd your-destination-folder.
  
-1 - Install Dependencies: npm install
+1) Install Dependencies: npm install
   
-2 - Run the Development Server: npm run dev
+2) Run the Development Server: npm run dev
 
-3 - Visit the link: http://localhost:5173/
+3) Visit the link: http://localhost:5173/
 
 # Website Screenshot:
 
